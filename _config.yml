@@ -3,7 +3,7 @@ title:               Jash Rathod
 tagline:             'A Blog for Books'
 description:         'Love for books. <br/> Made by <a href="https://twitter.com/rathod_jash" target="_blank">@rathod_jash</a>.'
 url:                 https://jashrathod.github.io/book-blog
-baseurl:             ''
+baseurl:             '/book-blog'
 paginate:            10
 permalink:           pretty
 
