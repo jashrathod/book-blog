@@ -106,4 +106,6 @@ reading goals for the year, join book clubs, connect with like minded individual
 
 With this I would like to conclude this article. Feel free to drop in a like if these tips were helpful. Also, do share with me how you were able to read more.
 
+You can reach out to me on [LinkedIn](https://in.linkedin.com/in/jash-rathod-902512145) or [Twitter](https://twitter.com/rathod_jash).
+
 Last but not the least, I would be happy to receive any book recommendations from your side :)
