@@ -3,27 +3,22 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey! I'm Jash Rathod and my love for books has motivated me to start this blog.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+At first, I would like to thank you for viewing my work. It means a lot!
 
-There are currently two themes built on Poole:
+## What I do
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I am a Machine Learning Reasearcher. Recently, I completed my undergrads in Computer Engineering. I have experience working with technologies like Artificial Intelligence and Blockchain. I also run a blog where I write about cutting-edge technologies. You can find it here: [Jash Rathod's Tech Blog](https://jashrathod.github.io/)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+So yeah, I'm a geek!
 
-## Setup
+## What I read
 
-Some fun facts about the setup of this project include:
+Mostly, I find myself reading **Non-Fiction**. My favourites are Self Help, Science and Technology, and Finance Books. It would be too early to claim I've read _many_ books to be categorising these types as my favourites, but I enjoy them a lot.
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+You can find the books I've read in the past on [my goodreads account](https://www.goodreads.com/jashrathod).
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Connect with me
 
-Thanks for reading!
+Want to grab a coffee? Feel free to reach out to me on [LinkedIn](https://in.linkedin.com/in/jash-rathod-902512145) or [Twitter](https://twitter.com/rathod_jash).
