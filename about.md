@@ -15,7 +15,7 @@ So yeah, I'm a geek!
 
 ## What I read
 
-Mostly, I find myself reading **Non-Fiction**. My favourites are Self Help, Science and Technology, and Finance Books. It would be too early to claim I've read _many_ books to be categorising these types as my favourites, but I enjoy them a lot.
+Mostly, I find myself reading **Non-Fiction**. My favourites are Self Help, Science and Technology, and Finance Books. It would be too early to claim I've read _many_ books to be categorizing these types as my favourites, but I enjoy them a lot.
 
 You can find the books I've read in the past on [my goodreads account](https://www.goodreads.com/jashrathod).
 
