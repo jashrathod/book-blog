@@ -4,8 +4,17 @@ title: "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happines
 comments: true
 ---
   
-**Date Read**: 9th February 2021  
-**How strongly I recommend it**: 10/10  
+<table>
+  <tr>
+    <td><img src="https://images-na.ssl-images-amazon.com/images/I/81Lb75rUhLL.jpg" alt="The Psychology of Money" width="150"/></td>
+    <td>
+      <b>Date Read</b>: 9th February 2021 <br> 
+      <b>How strongly I recommend it</b>: 10/10 
+    </td>
+  </tr>
+</table>
+
+ 
 
 A must read for personal investing! As it's said, "Your behavior of investing is much more important than the amount you invest," this book highlights the different pitfalls of investing. It helps us identify many of the wrong mental blueprints we might have and suggests improvements in a language easy to understand. 
 
