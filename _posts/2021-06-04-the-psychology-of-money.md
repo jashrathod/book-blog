@@ -18,6 +18,8 @@ comments: true
 
 A must read for personal investing! As it's said, "Your behavior of investing is much more important than the amount you invest," this book highlights the different pitfalls of investing. It helps us identify many of the wrong mental blueprints we might have and suggests improvements in a language easy to understand. 
 
+Details and review: [Amazon Page](https://www.amazon.in/Psychology-Money-Morgan-Housel/dp/9390166268/ref=sr_1_1_sspa?crid=V3DKADSQDBTT&dchild=1&keywords=psychology+of+money&qid=1622818545&sprefix=psych%2Caps%2C621&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyS0NWUEVQUVNaOTBPJmVuY3J5cHRlZElkPUEwMjEzNjI1MTMyTldZR0ozUUpaJmVuY3J5cHRlZEFkSWQ9QTAxNDUxNTgzQjgySzVVM1k5VVdIJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+
 ## My Notes:
 
 The hardest financial skill is getting the goalpost to stop moving.
@@ -111,3 +113,7 @@ Avoid the extreme ends of financial decisions.
 Smart, informed, and reasonable people can disagree in finance, because people have vastly different goals and desires.
 
 Every investor should pick a strategy that has the highest odds of successfully meeting their goals. And I (author) think for most investors, dollar-cost averaging into a low-cost index fund will provide the highest odds of long-term success.
+
+***
+
+Want to get hands on my other book notes? Head over to [My Book Notes](https://jashrathod.github.io/book-blog/notes/).
