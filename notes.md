@@ -10,4 +10,6 @@ taking notes.
 
 Sorted with my newest read up top:
 
+- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life - By Mark Manson](https://jashrathod.github.io/book-blog/2021/07/01/the-subtle-art/)
+
 - [The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness - By Morgan Housel](https://jashrathod.github.io/book-blog/2021/06/04/the-psychology-of-money/)
