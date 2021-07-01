@@ -150,4 +150,4 @@ The pampering of the modern mind has resulted in a population that feels deservi
 
 <hr>
 
-Want to get hands on my other book notes? Head over to My Book Notes.
+Want to get hands on my other book notes? Head over to [My Book Notes](https://jashrathod.github.io/book-blog/notes/).
