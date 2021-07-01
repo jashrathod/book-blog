@@ -8,7 +8,7 @@ comments: true
   <tr>
     <td valign="middle" align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/81Lb75rUhLL.jpg" alt="The Psychology of Money" width="150"/></td>
     <td>
-      <b>Date Read</b>: 9th February 2021 <br> 
+      <b>Date Finished</b>: 9th February 2021 <br> 
       <b>How strongly I recommend it</b>: 10/10 
     </td>
   </tr>
