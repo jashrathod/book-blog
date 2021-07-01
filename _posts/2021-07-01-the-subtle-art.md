@@ -34,13 +34,13 @@ Subtlety #1: Not giving a f\*ck does not mean being indifferent; it means being 
 
 Subtlety #2: To not give a f\*ck about adversity, you must first give a f\*ck about something more important than adversity.
 
-I believe that today we’re facing a psychological epidemic, one in which people no longer realize it’s okay for things to suck sometimes.
+I (author) believe that today we’re facing a psychological epidemic, one in which people no longer realize it’s okay for things to suck sometimes.
 
 Subtlety #3: Whether you realize it or not, you are always choosing what to give a f\*ck about.
 
 Whatever your problems are, the concept is the same: solve problems; be happy. Unfortunately, for many people, life doesn’t feel that simple. That’s because they f\*ck things up in at least one of two ways: 1. Denial. Some people deny that their problems exist in the first place. And because they deny reality, they must constantly delude or distract themselves from reality. This may make them feel good in the short term, but it leads to a life of insecurity, neuroticism, and emotional repression. 2. Victim Mentality. Some choose to believe that there is nothing they can do to solve their problems, even when they in fact could. Victims seek to blame others for their problems or blame outside circumstances. This may make them feel better in the short term, but it leads to a life of anger, helplessness, and despair.
 
-I thought I wanted something, but it turns out I didn’t. End of story. I wanted the reward and not the struggle. I wanted the result and not the process. I was in love with not the fight but only the victory. And life doesn’t work that way. Who you are is defined by what you’re willing to struggle for.
+I (author) thought I wanted something, but it turns out I didn’t. End of story. I wanted the reward and not the struggle. I wanted the result and not the process. I was in love with not the fight but only the victory. And life doesn’t work that way. Who you are is defined by what you’re willing to struggle for.
 
 Life itself is a form of suffering. The rich suffer because of their riches. The poor suffer because of their poverty. People without a family suffer because they have no family. People with a family suffer because of their family. People who pursue worldly pleasures suffer because of their worldly pleasures. People who abstain from worldly pleasures suffer because of their abstention.
 
@@ -84,7 +84,7 @@ A lot of people hesitate to take responsibility for their problems because they 
 
 We all love to take responsibility for success and happiness. Hell, we often fight over who gets to be responsible for success and happiness. But taking responsibility for our problems is far more important, because that’s where the real learning comes from. That’s where the real-life improvement comes from. To simply blame others is only to hurt yourself.
 
-I see life in the same terms. We all get dealt cards. Some of us get better cards than others. And while it’s easy to get hung up on our cards, and feel we got screwed over, the real game lies in the choices we make with those cards, the risks we decide to take, and the consequences we choose to live with. People who consistently make the best choices in the situations they’re given are the ones who eventually come out ahead in poker, just as in life. And it’s not necessarily the people with the best cards.
+I (author) see life in the same terms. We all get dealt cards. Some of us get better cards than others. And while it’s easy to get hung up on our cards, and feel we got screwed over, the real game lies in the choices we make with those cards, the risks we decide to take, and the consequences we choose to live with. People who consistently make the best choices in the situations they’re given are the ones who eventually come out ahead in poker, just as in life. And it’s not necessarily the people with the best cards.
 
 As a general rule, we’re all the world’s worst observers of ourselves. When we’re angry, or jealous, or upset, we’re oftentimes the last ones to figure it out. And the only way to figure it out is to put cracks in our armor of certainty by consistently questioning how wrong we might be about ourselves.
 
@@ -100,7 +100,7 @@ Until we change how we view ourselves, what we believe we are and are not, we ca
 
 Some good news and some bad news for you: there is little that is unique or special about your problems. That’s why letting go is so liberating.
 
-My recommendation: don’t be special; don’t be unique. Redefine your metrics in mundane and broad ways. Choose to measure yourself not as a rising star or an undiscovered genius. Choose to measure yourself not as some horrible victim or dismal failure. Instead, measure yourself by more mundane identities: a student, a partner, a friend, a creator. The narrower and rarer the identity you choose for yourself, the more everything will seem to threaten you. For that reason, define yourself in the simplest and most ordinary ways possible.
+My (author's) recommendation: don’t be special; don’t be unique. Redefine your metrics in mundane and broad ways. Choose to measure yourself not as a rising star or an undiscovered genius. Choose to measure yourself not as some horrible victim or dismal failure. Instead, measure yourself by more mundane identities: a student, a partner, a friend, a creator. The narrower and rarer the identity you choose for yourself, the more everything will seem to threaten you. For that reason, define yourself in the simplest and most ordinary ways possible.
 
 It’s worth remembering that for any change to happen in your life, you must be wrong about something. If you’re sitting there, miserable day after day, then that means you’re already wrong about something major in your life, and until you’re able to question yourself to find it, nothing will change.
 
