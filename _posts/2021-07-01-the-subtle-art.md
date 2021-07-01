@@ -16,7 +16,7 @@ comments: true
 
  
 
-With an amazing and casual writing style, the author, Mark Manson, seeks out to bring some of the mental makeups that we have to our notice. A good read on how we should decide to prioritize what to pay attention to (in his words, give a f*ck about). I personally loved his concept of metrics to measure success and failure.
+With an amazing and casual writing style, the author, Mark Manson, seeks out to bring some of the mental makeups that we have to our notice. A good read on how we should decide to prioritize what to pay attention to (in his words, give a f\*ck about). I personally loved his concept of metrics to measure success and failure.
 
 Details and review: [Amazon Page](https://www.amazon.in/Subtle-Art-Not-Giving/dp/0062641549)
 
@@ -24,21 +24,21 @@ Details and review: [Amazon Page](https://www.amazon.in/Subtle-Art-Not-Giving/dp
 
 Self-improvement and success often occur together. But that doesn’t necessarily mean they’re the same thing.
 
-The key to a good life is not giving a f*ck about more; it’s giving a f*ck about less, giving a f*ck about only what is true and immediate and important.
+The key to a good life is not giving a f\*ck about more; it’s giving a f\*ck about less, giving a f\*ck about only what is true and immediate and important.
 
 You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
 
 Everything worthwhile in life is won through surmounting the associated negative experience.
 
-Subtlety #1: Not giving a f*ck does not mean being indifferent; it means being comfortable with being different. The point isn’t to get away from the shit. The point is to find the shit you enjoy dealing with.
+Subtlety #1: Not giving a f\*ck does not mean being indifferent; it means being comfortable with being different. The point isn’t to get away from the shit. The point is to find the shit you enjoy dealing with.
 
-Subtlety #2: To not give a f*ck about adversity, you must first give a f*ck about something more important than adversity.
+Subtlety #2: To not give a f\*ck about adversity, you must first give a f\*ck about something more important than adversity.
 
 I believe that today we’re facing a psychological epidemic, one in which people no longer realize it’s okay for things to suck sometimes.
 
-Subtlety #3: Whether you realize it or not, you are always choosing what to give a f*ck about.
+Subtlety #3: Whether you realize it or not, you are always choosing what to give a f\*ck about.
 
-Whatever your problems are, the concept is the same: solve problems; be happy. Unfortunately, for many people, life doesn’t feel that simple. That’s because they f*ck things up in at least one of two ways: 1. Denial. Some people deny that their problems exist in the first place. And because they deny reality, they must constantly delude or distract themselves from reality. This may make them feel good in the short term, but it leads to a life of insecurity, neuroticism, and emotional repression. 2. Victim Mentality. Some choose to believe that there is nothing they can do to solve their problems, even when they in fact could. Victims seek to blame others for their problems or blame outside circumstances. This may make them feel better in the short term, but it leads to a life of anger, helplessness, and despair.
+Whatever your problems are, the concept is the same: solve problems; be happy. Unfortunately, for many people, life doesn’t feel that simple. That’s because they f\*ck things up in at least one of two ways: 1. Denial. Some people deny that their problems exist in the first place. And because they deny reality, they must constantly delude or distract themselves from reality. This may make them feel good in the short term, but it leads to a life of insecurity, neuroticism, and emotional repression. 2. Victim Mentality. Some choose to believe that there is nothing they can do to solve their problems, even when they in fact could. Victims seek to blame others for their problems or blame outside circumstances. This may make them feel better in the short term, but it leads to a life of anger, helplessness, and despair.
 
 I thought I wanted something, but it turns out I didn’t. End of story. I wanted the reward and not the struggle. I wanted the result and not the process. I was in love with not the fight but only the victory. And life doesn’t work that way. Who you are is defined by what you’re willing to struggle for.
 
@@ -70,11 +70,11 @@ If you want to change how you see your problems, you have to change what you val
 
 These stories suggest that some values and metrics are better than others. Some lead to good problems that are easily and regularly solved. Others lead to bad problems that are not easily and regularly solved.
 
-“Self-improvement” is really about: prioritizing better values, choosing better things to give a f*ck about. Because when you give better f*cks, you get better problems. And when you get better problems, you get a better life.
+“Self-improvement” is really about: prioritizing better values, choosing better things to give a f\*ck about. Because when you give better f\*cks, you get better problems. And when you get better problems, you get a better life.
 
 “With great responsibility comes great power.” The more we choose to accept responsibility in our lives, the more power we will exercise over our lives. Accepting responsibility for our problems is thus the first step to solving them.
 
-You are already choosing, in every moment of every day, what to give a f*ck about, so change is as simple as choosing to give a f*ck about something else. It really is that simple. It’s just not easy.
+You are already choosing, in every moment of every day, what to give a f\*ck about, so change is as simple as choosing to give a f\*ck about something else. It really is that simple. It’s just not easy.
 
 There is a simple realization from which all personal improvement and growth emerges. This is the realization that we, individually, are responsible for everything in our lives, no matter the external circumstances.
 
@@ -140,7 +140,7 @@ Becker’s second point starts with the premise that we essentially have two “
 
 As humans, we’re blessed with the ability to imagine ourselves in hypothetical situations, to contemplate both the past and the future, to imagine other realities or situations where things might be different. And it’s because of this unique mental ability, Becker says, that we all, at some point, become aware of the inevitability of our own death. Because we’re able to conceptualize alternate versions of reality, we are also the only animal capable of imagining a reality without ourselves in it.
 
-What Becker is saying, in essence, is that we’re all driven by fear to give way too many f*cks about something, because giving a f*ck about something is the only thing that distracts us from the reality and inevitability of our own death. And to truly not give a single f*ck is to achieve a quasi-spiritual state of embracing the impermanence of one’s own existence. In that state, one is far less likely to get caught up in various forms of entitlement.
+What Becker is saying, in essence, is that we’re all driven by fear to give way too many f\*cks about something, because giving a f\*ck about something is the only thing that distracts us from the reality and inevitability of our own death. And to truly not give a single f\*ck is to achieve a quasi-spiritual state of embracing the impermanence of one’s own existence. In that state, one is far less likely to get caught up in various forms of entitlement.
 
 Becker later came to a startling realization on his deathbed: that people’s immortality projects were actually the problem, not the solution; that rather than attempting to implement, often through lethal force, their conceptual self across the world, people should question their conceptual self and become more comfortable with the reality of their own death. Becker called this “the bitter antidote.”
 
