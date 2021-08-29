@@ -32,7 +32,7 @@ Therefore, what we think about gets manifested and not what we claim we want. So
 
 To get started it is important to realize that this ultimate superpower (power of subconscious mind) is already within us. We just need to learn to use it.
 
-![Duality of mind](./public/duality_of_mind.png)
+![Duality of mind](/public/duality_of_mind.png)
 
 Whenever we face a problem or a lack/fear of something, our conscious mind goes in a state of panic and this induces negativity in the subconscious mind. Once the subconscious mind accepts that, it pushes us in a deeper state of fear and then our actions mess things up 
 
@@ -48,7 +48,7 @@ Our conscious mind, being a rational part, has the ability to push information t
 
 > Your subconscious mind doesn't understand a joke. It takes you at your word.
 
-![Autosuggestion](./public/autosuggestion.png)
+![Autosuggestion](/public/autosuggestion.png)
     
 Like auto suggestion, suggestions from others can also serve as a negative suggestion to your subconscious mind. Solution: use constructive autosuggestion to change such a negative suggestion. 
 
@@ -143,7 +143,7 @@ Second reason for this is neutralizing the information.
 
 The same can be true for affirmations. If 10 minutes after the affirmation ritual we let fear and negativity induce in our mind, we are neutralizing the affirmation. **Solution: just when we are about to say or think negatively, cut it midway and pray for your prosperity.**
 
-![Correct your thoughts](./public/correction.png)
+![Correct your thoughts](/public/correction.png)
     
 **Don't criticize/condemn/complain:**
 
