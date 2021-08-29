@@ -86,7 +86,7 @@ The reason this is a good practice is that it pushes us into a virtuous cycle wh
 
 ### Six steps to successful writing
 
-#### 1. Separate and Interlocking Task
+#### **1. Separate and Interlocking Task**
 
 Multitasking and distractions severely hampered our attention. In academic writing, there are multiple tasks (reading, thinking, writing, proofreading). Thus, keep these tasks different and try not to multitask (it might seem obvious, but unknowingly we tend to do it, like writing and proofreading at the same time).
 
@@ -98,7 +98,7 @@ Unfinished tasks tend to bug us until they are finished. What we can do is make 
 
 Finally, we must make an attempt to reduce the number of decisions we make. We can do this for small things like keeping the same notebook, pen, times, spot where we'll work, etc. to make less decisions. Studies show that as we make more decisions through the day, we deplete our focus. By making less decisions, we will be able to focus better on the main task.
 
-#### 2. Read for understanding
+#### **2. Read for understanding**
 
 Taking handwritten notes has more advantages than typing it out or just remembering it. Various studies indicate that writing facilitate better understanding. This is because writing takes time and to take notes by hand, we understand what we read/listen and jot down the essence in our own words. This puts the information out of the author's/lecturer's context and puts in our context (which is relevant for our mental models). Thus, we must always keep a pen in our hand while we read and make notes whenever we encounter a new idea. 
 
@@ -114,7 +114,7 @@ There is an important difference between familiarity and understanding. We might
 
 We might be getting the idea that the slip-box is a second mind. It is not. The slip box takes care of the details, ideas, concepts, and their references. Mind focuses on the big picture (mental associations and connections), and creative thinking. So basically we are transferring the load of a long-term memory from our mind to slip-box. In fact, each one of them will do best when working this way.
 
-#### 3. Take smart notes
+#### **3. Take smart notes**
 
 To become a good researcher, an important skill is to be able to think about something beyond the given context. This is logical to follow as it's the nature of this work to be able to apply concepts in different lines of thoughts. A slip box build connections and facilitates just that. 
 
@@ -124,13 +124,13 @@ Our brain does not always do a good job of evaluating our thinking and arguments
 
 One of the greatest functionalities of a brain is the ability to forget almost everything. Some of this information can be retrieved my triggers in our brains which indicates the importance of associations in our mind. In fact, this is how we actually learn and understand (and not cramming). If we were able to remember everything, we will not be able to get a gist not understanding any underlying meaning. The slip-box and to achieve this in an external system. Writing notes and sorting them is nothing other than an attempt to understand wider meaning of something. And to enhance our learning, we must not attempt to make learning easier (by sorting them into topics, or what teachers generally do), but instead elaborate on differences and similarities of notes.
 
-#### 4. Develop ideas
+#### **4. Develop ideas**
 
 The slip-box is not an encyclopedia/wikipedia. It is actually just like information in our mind. We might get an impression that we need to have an overview of it but this idea is just as absurd as having an overview of our thinking.
 
 We must understand the difference between being an archivist and a writer. An archivist will add the notes with keywords relevant to the topic. A writer will add the keywords to the notes in a way in which he/she wants it to be called forth (pull this string). Hence, keywords should be chosen in context of what we are working on or interested in and not by looking at that note in isolation.
 
-**Building connections among notes:**
+_Building connections among notes:_
 
 For a digital slip-box, there are 2 important types of links/connections:
 
@@ -143,21 +143,21 @@ We must keep adding our ideas and new information to slip-box as it happens many
 
 This highlights the importance of having mental models to interpret information and use it in right context (Charlie Munger is a strong believer of this idea).
 
-**What is innovation?**
+_What is innovation?_
 
 Contrary to the popular belief, innovation is small steps taken in the right direction by deliberate effort and for a long time rather than just a moment of realization.
 
-**Abstraction:**
+_Abstraction:_
 
 To achieve good insights and exceptional works, it is important to play around with the existing ideas and information. This requires ability to think abstractly. This pushes us to think of a piece of information in another contexts. This is what creativity is.
 
-**Effective thinkers:**
+_Effective thinkers:_
 
 - They have great ability to focus on main idea beyond the details.
 - They make sure they really see what they think they see and describe it as plainly and factually as possible (seems banal but we fall prey to it). This promotes them to learn from others' mistakes and eliminating the biases in the data (eg. survivorship bias).
 - They take simple ideas seriously.
 
-**Facilitate creativity through restrictions:**
+_Facilitate creativity through restrictions:_
 
 It is generally thought that we can be creative when we break from structure. But evidence shows otherwise. Studies as well as examples show that imposing restrictions and structure  can promote creativity. Tips to store in notes in slip-box with this idea:
 
@@ -175,7 +175,7 @@ Doing research is not easy as we might lose interest in it. To avoid that, it is
 
 While writing, we will obviously make changes. TIP: if there's any part we feel might help us but seems incorrectly/overwritten, copy it to another file named _"xyz-rest.doc"_. It gives us a sense that we haven't lost anything, but in reality, we'll mostly end up not using the doc. 
 
-#### 6. Make it a habit
+#### **6. Make it a habit**
 
 Doing research and even maintaining a slip-box requires constant efforts and habit building. 
 
