@@ -10,6 +10,8 @@ taking notes.
 
 Sorted with my newest read up top:
 
+- [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers - By Sonke Ahrens](https://jashrathod.github.io/book-blog/2021/08/30/how-to-take-smart-notes/)
+
 - [The Power of Your Subconscious Mind - By Dr. Joseph Murphy](https://jashrathod.github.io/book-blog/2021/08/29/the-power-of-your-subconscious-mind/)
 
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life - By Mark Manson](https://jashrathod.github.io/book-blog/2021/07/01/the-subtle-art/)
