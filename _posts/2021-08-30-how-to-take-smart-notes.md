@@ -165,7 +165,7 @@ It is generally thought that we can be creative when we break from structure. Bu
 - keep notes precise
 - for digital notes, make notes of size such that there's no need to scroll
 
-#### 5. Share your insight
+#### **5. Share your insight**
 
 This step mainly concerns more with writing the manuscript than taking notes for the slip-box. So the thought process here changes from developing a mental model to arranging the notes linearly and collating it into a manuscript. 
 
