@@ -86,7 +86,7 @@ The reason this is a good practice is that it pushes us into a virtuous cycle wh
 
 ### Six steps to successful writing
 
-1. **Separate and Interlocking Task**
+#### 1. Separate and Interlocking Task
 
 Multitasking and distractions severely hampered our attention. In academic writing, there are multiple tasks (reading, thinking, writing, proofreading). Thus, keep these tasks different and try not to multitask (it might seem obvious, but unknowingly we tend to do it, like writing and proofreading at the same time).
 
@@ -98,7 +98,7 @@ Unfinished tasks tend to bug us until they are finished. What we can do is make 
 
 Finally, we must make an attempt to reduce the number of decisions we make. We can do this for small things like keeping the same notebook, pen, times, spot where we'll work, etc. to make less decisions. Studies show that as we make more decisions through the day, we deplete our focus. By making less decisions, we will be able to focus better on the main task.
 
-2. **Read for understanding**
+#### 2. Read for understanding
 
 Taking handwritten notes has more advantages than typing it out or just remembering it. Various studies indicate that writing facilitate better understanding. This is because writing takes time and to take notes by hand, we understand what we read/listen and jot down the essence in our own words. This puts the information out of the author's/lecturer's context and puts in our context (which is relevant for our mental models). Thus, we must always keep a pen in our hand while we read and make notes whenever we encounter a new idea. 
 
@@ -114,7 +114,7 @@ There is an important difference between familiarity and understanding. We might
 
 We might be getting the idea that the slip-box is a second mind. It is not. The slip box takes care of the details, ideas, concepts, and their references. Mind focuses on the big picture (mental associations and connections), and creative thinking. So basically we are transferring the load of a long-term memory from our mind to slip-box. In fact, each one of them will do best when working this way.
 
-3. **Take smart notes**
+#### 3. Take smart notes
 
 To become a good researcher, an important skill is to be able to think about something beyond the given context. This is logical to follow as it's the nature of this work to be able to apply concepts in different lines of thoughts. A slip box build connections and facilitates just that. 
 
@@ -124,7 +124,7 @@ Our brain does not always do a good job of evaluating our thinking and arguments
 
 One of the greatest functionalities of a brain is the ability to forget almost everything. Some of this information can be retrieved my triggers in our brains which indicates the importance of associations in our mind. In fact, this is how we actually learn and understand (and not cramming). If we were able to remember everything, we will not be able to get a gist not understanding any underlying meaning. The slip-box and to achieve this in an external system. Writing notes and sorting them is nothing other than an attempt to understand wider meaning of something. And to enhance our learning, we must not attempt to make learning easier (by sorting them into topics, or what teachers generally do), but instead elaborate on differences and similarities of notes.
 
-4. **Develop ideas**
+#### 4. Develop ideas
 
 The slip-box is not an encyclopedia/wikipedia. It is actually just like information in our mind. We might get an impression that we need to have an overview of it but this idea is just as absurd as having an overview of our thinking.
 
@@ -165,7 +165,7 @@ It is generally thought that we can be creative when we break from structure. Bu
 - keep notes precise
 - for digital notes, make notes of size such that there's no need to scroll
 
-5. **Share your insight**
+#### 5. Share your insight
 
 This step mainly concerns more with writing the manuscript than taking notes for the slip-box. So the thought process here changes from developing a mental model to arranging the notes linearly and collating it into a manuscript. 
 
@@ -175,7 +175,7 @@ Doing research is not easy as we might lose interest in it. To avoid that, it is
 
 While writing, we will obviously make changes. TIP: if there's any part we feel might help us but seems incorrectly/overwritten, copy it to another file named _"xyz-rest.doc"_. It gives us a sense that we haven't lost anything, but in reality, we'll mostly end up not using the doc. 
 
-6. **Make it a habit**
+#### 6. Make it a habit
 
 Doing research and even maintaining a slip-box requires constant efforts and habit building. 
 
