@@ -28,7 +28,7 @@ Developing and coming up with new ideas can be challenging, especially when we'r
 
 Establishing such systems can seem complex, but is done properly can be very efficient. For this, we'll try to keep the system as simple and let the concepts and ideas become complex. We also don't need to get anything prepared for it. We don't need to create a new system but the **"slip-box"** does that for us. Though, it is important to develop routines that help us stick with the system.
 
-![Slip-box methodology]({{ site.url }}/public/slipbox.png)
+![Slip-box methodology]({{ site.url }}/public/slip-box.png)
 
 If we implement this slip-box well, the task of writing a paper doesn't seem to be that hard:
 1. Assemble notes and bring them in order
