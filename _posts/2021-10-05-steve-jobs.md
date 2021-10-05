@@ -52,7 +52,7 @@ Products, not the profits, were the motivation. It’s a subtle difference, but 
 
 I hate it when people call themselves "entrepreneurs" when what they're really trying to do is launch a startup and then sell or go public, so they can cash in and move on. They're unwilling to do the work it takes to build a real company, which is the hardest work in business. That's how you really make a contribution and add to the legacy of those who went before. You build a company that will still stand for something a generation or two from now. That's what Walt Disney did, and Hewlett and Packard, and the people who built Intel. They created a company to last, not just to make money. That's what I want Apple to be.
 
-You’ve got to be able to be super honest. (Telling people to their face if something sucks)
+You’ve got to be able to be super honest (Telling people to their face if their product sucks).
 
 You always have to keep pushing to innovate. Otherwise, as Dylan says, if you’re not busy being born, you’re busy dying.
 
