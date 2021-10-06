@@ -16,6 +16,8 @@ Sorted with my newest read up top:
 
 - [The Power of Your Subconscious Mind - By Dr. Joseph Murphy](https://jashrathod.github.io/book-blog/2021/08/29/the-power-of-your-subconscious-mind/)
 
+- [Deep Work - By Cal Newport](https://jashrathod.github.io/book-blog/2021/07/28/deep-work/)
+
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life - By Mark Manson](https://jashrathod.github.io/book-blog/2021/07/01/the-subtle-art/)
 
 - [The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness - By Morgan Housel](https://jashrathod.github.io/book-blog/2021/06/04/the-psychology-of-money/)
