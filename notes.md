@@ -10,6 +10,8 @@ taking notes.
 
 Sorted with my newest read up top:
 
+- [My Journey: Transforming Dreams into Actions - By Dr. A. P. J. Abdul Kalam](https://jashrathod.github.io/book-blog/2021/10/22/my-journey-transforming-dreams-into-actions/)
+
 - [Steve Jobs - By Walter Isaacson](https://jashrathod.github.io/book-blog/2021/10/05/steve-jobs/)
 
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers - By Sonke Ahrens](https://jashrathod.github.io/book-blog/2021/08/30/how-to-take-smart-notes/)
