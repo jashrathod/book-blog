@@ -14,7 +14,7 @@ comments: true
   </tr>
 </table>
 
-An immense push of motivation for success in a bundle of 40 pages. The author Price Pritchett, Ph.D. shares some deep insights and gives key takeaways for achieving our goals and some blockers in our pathway. All we need to do is make the quantum leap - go beyond our comfort zone, and claim al that is ours.
+An immense push of motivation for success in a bundle of 40 pages. The author Price Pritchett, Ph.D. shares some deep insights and gives key takeaways for achieving our goals and some blockers in our pathway. All we need to do is make the quantum leap - go beyond our comfort zone, and claim all that is ours.
 
 Details and review: [Amazon Page](https://www.amazon.in/You-Velocity-Multiplying-Personal-Effectiveness/dp/0944002048)
 
