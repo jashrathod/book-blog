@@ -10,6 +10,8 @@ taking notes.
 
 Sorted with my newest read up top:
 
+- [You 2: A High Velocity Formula for Multiplying Your Personal Effectiveness in Quantum Leaps](https://jashrathod.github.io/book-blog/2021/12/19/you-squared/)
+
 - [My Journey: Transforming Dreams into Actions - By Dr. A. P. J. Abdul Kalam](https://jashrathod.github.io/book-blog/2021/10/22/my-journey-transforming-dreams-into-actions/)
 
 - [Steve Jobs - By Walter Isaacson](https://jashrathod.github.io/book-blog/2021/10/05/steve-jobs/)
