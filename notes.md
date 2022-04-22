@@ -10,6 +10,10 @@ taking notes.
 
 Sorted with my newest read up top:
 
+- [Ikigai: the Japanese secret to a long and happy life - By Héctor García and Francesc Miralles](https://jashrathod.github.io/book-blog/2022/04/22/ikigai/)
+
+- [The Art of Happiness - By 14th Dalai Lama and Howard Cutler](https://jashrathod.github.io/book-blog/2022/04/02/the-art-of-happiness/)
+
 - [You 2: A High Velocity Formula for Multiplying Your Personal Effectiveness in Quantum Leaps](https://jashrathod.github.io/book-blog/2021/12/19/you-squared/)
 
 - [My Journey: Transforming Dreams into Actions - By Dr. A. P. J. Abdul Kalam](https://jashrathod.github.io/book-blog/2021/10/22/my-journey-transforming-dreams-into-actions/)
